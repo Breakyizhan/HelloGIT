@@ -6,6 +6,7 @@ public class HelloGIT {
 		// TODO 自动生成的方法存根
 		System.out.print("Hello GIT");
 		System.out.print("Hello Arvin");
+		System.out.print("Hello Breakyizhan.com");
 	}
 
 }
